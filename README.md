@@ -254,4 +254,7 @@ private.get()
 0
 ```
 
+## Adding a new node.
+
+...
 
